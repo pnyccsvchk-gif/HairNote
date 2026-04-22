@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>HairNote Terms of Service</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      background: #f7f8fb;
+      color: #1f2430;
+    }
+    .wrap {
+      max-width: 860px;
+      margin: 32px auto;
+      padding: 0 16px;
+    }
+    .card {
+      background: #ffffff;
+      border: 1px solid #e5e9f2;
+      border-radius: 14px;
+      padding: 28px 24px;
+    }
+    h1, h2 { line-height: 1.3; color: #111827; }
+    h1 { margin-top: 0; font-size: 30px; }
+    h2 { margin-top: 28px; font-size: 22px; }
+    p { margin: 12px 0; }
+    ul { margin: 8px 0 12px 22px; }
+    li { margin: 6px 0; }
+    .meta { color: #4b5563; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <article class="card">
+      <h1>HairNote Terms of Service</h1>
+      <p class="meta"><strong>Effective date:</strong> April 22, 2026<br><strong>Last updated:</strong> April 22, 2026</p>
+
+      <p>These Terms of Service ("Terms") govern your access to and use of the HairNote mobile application ("App") on iOS. By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use the App.</p>
+      <p>"The publisher", "we", "us", and "our" mean the publisher of HairNote as identified in the Apple App Store for your purchase or download territory.</p>
+
+      <h2>1. The service</h2>
+      <p>HairNote provides tools to record hair-related events, notes, inspiration references, reminders, optional voice notes, and related features as made available in the App from time to time. We may modify, suspend, or discontinue any part of the App with or without notice, subject to applicable law and any rights you have with Apple regarding purchases.</p>
+
+      <h2>2. Eligibility and accounts</h2>
+      <p>You must be able to form a binding contract in your jurisdiction to use the App. If you use Sign in with Apple or other account features, you must comply with Apple's applicable terms and policies. You are responsible for maintaining the security of your device and any credentials.</p>
+
+      <h2>3. License</h2>
+      <p>Subject to these Terms, we grant you a personal, limited, non-exclusive, non-transferable, revocable license to use the App for your own non-commercial purposes in accordance with Apple's applicable usage rules.</p>
+      <p>You may not copy, modify, distribute, sell, lease, reverse engineer, or attempt to extract the source code of the App, except to the extent such restrictions are prohibited by applicable law.</p>
+
+      <h2>4. Virtual currency and in-app purchases</h2>
+      <p>The App may include virtual coins or similar credits used only inside the App. Virtual currency has no real-world monetary value, is not redeemable for cash except where required by law, and is non-transferable except as implemented within the App.</p>
+      <p>Purchases are processed by Apple through the App Store. Pricing, billing, refunds, and payment disputes are handled in accordance with Apple's terms and policies. To the maximum extent permitted by law, we do not provide refunds for completed purchases except as required by law or as stated by Apple.</p>
+      <p>Welcome grants, promotions, or bonus amounts may be offered, changed, or discontinued at any time.</p>
+
+      <h2>5. Feature usage and fees</h2>
+      <p>Certain features may consume virtual currency or require sign-in or other conditions as described in the App. Fees, costs, and availability may change. If a feature fails after a charge, your remedy is limited to correction within the App or support in line with Apple's applicable policies.</p>
+
+      <h2>6. Your content</h2>
+      <p>You retain ownership of content you create and upload to the App, subject to the license below. You are responsible for your content and for ensuring you have the rights to use it.</p>
+      <p>You grant us a limited license to store, process, and display your content solely to operate and provide the App to you on your device, including formatting, backup behavior controlled by your device settings, and optional processing through Apple services you choose to enable (for example speech recognition).</p>
+      <p>You must not upload unlawful, infringing, harassing, defamatory, obscene, or otherwise objectionable content, or content that violates third-party rights.</p>
+
+      <h2>7. Prohibited conduct</h2>
+      <p>You agree not to:</p>
+      <ul>
+        <li>Use the App in violation of law or third-party rights.</li>
+        <li>Attempt to interfere with or disrupt the App, servers, networks, or security.</li>
+        <li>Use automated means to access the App in a way that imposes an unreasonable load or bypasses restrictions.</li>
+        <li>Misrepresent your identity or misuse account features.</li>
+      </ul>
+      <p>We may suspend or terminate access if we reasonably believe you violated these Terms.</p>
+
+      <h2>8. Third-party services</h2>
+      <p>The App relies on Apple services (including the App Store, Sign in with Apple where offered, and system frameworks such as speech recognition). Your use of those services is also governed by Apple's terms and privacy policy.</p>
+
+      <h2>9. Intellectual property</h2>
+      <p>The App, its name, branding, and associated materials are owned by the publisher or its licensors and are protected by intellectual property laws. Except for the limited license in Section 3, no rights are granted to you.</p>
+
+      <h2>10. Disclaimers</h2>
+      <p>To the maximum extent permitted by applicable law, the App is provided "as is" and "as available" without warranties of any kind, whether express, implied, or statutory, including implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement.</p>
+      <p>We do not warrant that the App will be uninterrupted, error-free, or free of harmful components, or that any content or transcription will be accurate or complete.</p>
+
+      <h2>11. Limitation of liability</h2>
+      <p>To the maximum extent permitted by applicable law, the publisher and its suppliers will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits, data, goodwill, or other intangible losses, arising out of or related to your use of or inability to use the App.</p>
+      <p>To the maximum extent permitted by applicable law, our aggregate liability for any claim arising out of or related to the App will not exceed the greater of (a) the amount you paid to us for the App or in-app purchases in the twelve months before the claim, or (b) fifty United States dollars (USD 50), except where liability cannot be limited under applicable law.</p>
+      <p>Some jurisdictions do not allow certain limitations; in those jurisdictions, our liability is limited to the fullest extent permitted.</p>
+
+      <h2>12. Indemnity</h2>
+      <p>To the maximum extent permitted by law, you will indemnify and hold harmless the publisher and its affiliates, officers, and agents from any claims, losses, liabilities, and expenses (including reasonable attorneys' fees) arising from your content, your use of the App, or your violation of these Terms or applicable law.</p>
+
+      <h2>13. Termination</h2>
+      <p>You may stop using the App at any time by uninstalling it. We may suspend or terminate your access if we reasonably believe you violated these Terms or if we discontinue the App. Provisions that by their nature should survive termination will survive, including Sections 6 (license grant as needed to enforce), 9, 10, 11, 12, 14, 15, and 16.</p>
+
+      <h2>14. Changes to these Terms</h2>
+      <p>We may update these Terms from time to time. We will post the updated Terms with a new effective date in this document or otherwise provide notice as required by law. If you continue to use the App after changes become effective, you accept the updated Terms where permitted by law. If you do not agree, stop using the App.</p>
+
+      <h2>15. Governing law</h2>
+      <p>Unless mandatory local law requires otherwise, these Terms are governed by the laws of your country or region of residence, without regard to conflict-of-law principles. Courts in that jurisdiction may have exclusive jurisdiction over disputes, unless applicable consumer law provides otherwise.</p>
+
+      <h2>16. Contact</h2>
+      <p>You may contact us through the Contact or Support link shown on HairNote's App Store product page, or through any in-app support entry point we provide for HairNote.</p>
+
+      <h2>17. Apple-specific terms</h2>
+      <p>If you obtained the App from the Apple App Store, you acknowledge that these Terms are between you and the publisher only, not Apple. Apple is not responsible for the App or its content. Apple has no obligation to furnish maintenance or support for the App. Apple is not responsible for addressing any claims by you or a third party relating to the App or your possession or use of the App, including product liability claims, legal or regulatory failure claims, or consumer protection claims. In the event of a third-party claim that the App infringes intellectual property rights, the publisher (not Apple) is responsible for investigation, defense, settlement, and discharge of that claim to the extent required by these Terms. Apple and its subsidiaries are third-party beneficiaries of these Terms solely with respect to this Section 17, and upon your acceptance of these Terms, Apple will have the right to enforce them against you as a third-party beneficiary.</p>
+      <p>If any provision of these Terms conflicts with Apple's minimum required terms for App Store apps, Apple's required terms control solely to that extent.</p>
+    </article>
+  </main>
+</body>
+</html>
